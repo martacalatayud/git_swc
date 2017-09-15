@@ -1,3 +1,6 @@
+
+# Author: Marta Calatayud
+
 #### load packages #### 
 #including this symbols, allow us to navigate trough the documen
 1 + 100
