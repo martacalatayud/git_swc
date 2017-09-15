@@ -1,9 +1,11 @@
 # Title: Software Carpentry Workshop Notes
 # Author: Marta Calatayud
 # Data: Friday, September  15th, 2017
+# Changes for carpentry workshop
 
 #### load packages #### 
 library(ggplot2)
+
 
 #including this symbols, allow us to navigate trough the documen
 1 + 100
