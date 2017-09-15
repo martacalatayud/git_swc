@@ -2,6 +2,7 @@
 # Author: Marta Calatayud
 # Data: Friday, September  15th, 2017
 # Changes for carpentry workshop
+# Changes for carpentry workshop2
 
 #### load packages #### 
 library(ggplot2)
