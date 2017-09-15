@@ -1,5 +1,6 @@
 
 # Author: Marta Calatayud
+# Data: Friday, September  15th, 2017
 
 #### load packages #### 
 #including this symbols, allow us to navigate trough the documen
